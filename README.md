@@ -19,6 +19,8 @@
 
 
 - [ ] Learning JavaScript Design Patterns - Addy Osmani
+- [ ] Чистый код. Создание, анализ и рефакторинг - Robert C Martin
+
 
 
 ## Workflow
